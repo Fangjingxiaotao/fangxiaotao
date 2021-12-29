@@ -1,5 +1,5 @@
 ## Fang Jingxiaotao(方婧小桃）
-![images](https://www.google.com/search?q=polyu&sxsrf=AOaemvLUa2r4iQbydJvHyRseJTYZ_t4Bog:1640788128089&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbu5qMnIn1AhXLFogKHQfVA_MQ_AUoAXoECAIQAw#imgrc=ZqlY2WBLT_YQzM)
+![images](https://raw.githubusercontent.com/Fangjingxiaotao/fangxiaotao.github.io/gh-pages/PolyU%20Logo_630x630.jpeg)
 
 You can use the [editor on GitHub](https://github.com/Fangjingxiaotao/fangxiaotao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
